@@ -1,0 +1,9 @@
+﻿/.vs
+/src/.vs
+/src/obj
+/src/bin
+/src/*.user
+/samples/Mt3620App1/.vs
+/samples/Mt3620App1/obj
+/samples/Mt3620App1/bin
+/samples/Mt3620App1/*.user

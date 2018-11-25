@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mt3620App1", "Mt3620App1.vcxproj", "{19B48B2B-4DC7-4668-BD9E-D636FCDA238F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easyio", "..\..\src\easyio.vcxproj", "{5EF0F778-8F31-4829-B7EC-1CC80438BCC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B48B2B-4DC7-4668-BD9E-D636FCDA238F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{19B48B2B-4DC7-4668-BD9E-D636FCDA238F}.Debug|ARM.Build.0 = Debug|ARM
+		{19B48B2B-4DC7-4668-BD9E-D636FCDA238F}.Release|ARM.ActiveCfg = Release|ARM
+		{19B48B2B-4DC7-4668-BD9E-D636FCDA238F}.Release|ARM.Build.0 = Release|ARM
+		{5EF0F778-8F31-4829-B7EC-1CC80438BCC1}.Debug|ARM.ActiveCfg = Debug|ARM
+		{5EF0F778-8F31-4829-B7EC-1CC80438BCC1}.Debug|ARM.Build.0 = Debug|ARM
+		{5EF0F778-8F31-4829-B7EC-1CC80438BCC1}.Release|ARM.ActiveCfg = Release|ARM
+		{5EF0F778-8F31-4829-B7EC-1CC80438BCC1}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50A93B67-9F54-45BE-B380-F6A45ADE3ED9}
+	EndGlobalSection
+EndGlobal
